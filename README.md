@@ -19,5 +19,6 @@ Importante: Este deverá ser o arquivo original, ou seja, você deverá usar ele
 
 Na pasta arquivo se encontra uma copia do arquivo .xlsx recebido, o .pbix do relátorio e um .pdf com o relatório exportado.
 
+O relatório pode ver neste link https://app.powerbi.com/view?r=eyJrIjoiMWY2OGRhNjAtODUzMy00NmJiLWJlMzYtNGI1MzBjOTNmMjI0IiwidCI6IjlkZjUxMjBhLTBjZWQtNGJhMy05ZjkyLWI1ODE3YjNlZWQ1NCJ9
 
 Utilizei Power Query para limpar e tratar os dados, linguajem DAX para criar medidas e tabelas complementares e Figma para fazer o layout.
